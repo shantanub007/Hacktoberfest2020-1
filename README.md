@@ -3,8 +3,8 @@ Add your name and nick name to this repository and have a chance to win hacktobe
 
 __________-__________-__________-__________-__________
 
-##Name : Sarin M
-###Nick Name : sari
+## Name : Sarin M
+### Nick Name : sari
 
-##Name :
-###Nick Name :
+## Name :
+### Nick Name :

@@ -3,9 +3,9 @@ Add your name and nick name to this repository and have a chance to win hacktobe
 
 __________________________________________________
 
-## Name : Sarin M
+### Name : Sarin M
 ### Nick Name : sari
 --
-## Name :
+### Name :
 ### Nick Name :
 --
